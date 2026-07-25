@@ -1,43 +1,34 @@
-// Revisit
-
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-void solve() {
+
+int main(){
+  int f;
+  cin>>f;
+  for(int i=0; i<f; i++){
     int n;
-    cin >> n;
-
-    int zeros = 0;
-    int ones = 0;
-
-    for (int i = 0; i < n; i++) {
-        int x;
-        cin >> x;
-        if (x == 0) {
-            zeros++;
-        } else {
-            ones++;
-        }
+    cin>>n;
+    int arr[n];
+    for(int j=0; j<n; j++){
+      cin>>arr[j];
     }
 
-    // Print all the zeros first
-    for (int i = 0; i < zeros; i++) {
-        cout << 0 << " ";
+    int count1 =0;
+    int count0 =0;
+    for(int j=0; j<n; j++){
+      if(arr[j]==1){
+        count1++;
+      }
+      else{
+        count0++;
+      }
     }
-
-    // Print all the ones next
-    for (int i = 0; i < ones; i++) {
-        cout << 1 << " ";
+    for(int j=0; j<count0; j++){
+      cout<<0<<" ";
     }
-
-    cout << endl;
-}
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        solve();
+    for(int j=0; j<count1; j++){
+      cout<<1<<" ";
     }
-    return 0;
+  }
+  return 0;
 }
