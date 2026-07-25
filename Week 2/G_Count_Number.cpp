@@ -1,5 +1,3 @@
-// Revisit This Code
-
 #include<iostream>
 using namespace std;
 
