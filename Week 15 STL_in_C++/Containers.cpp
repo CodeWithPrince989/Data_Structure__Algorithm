@@ -316,7 +316,7 @@ int main()
       cout << val << " ";
     }
     cout << endl;
----------------------------------------------------------------------
+
 
     vector<int> vec = {3, 5, 1, 8, 2};
     sort(vec.begin(), vec.end());
@@ -326,5 +326,27 @@ int main()
     cout<<endl;
 
     
+    
+    
+    //Algorithm - Reverse
+    reverse(v.brgin(), v.end())
+    
+    //Algorithm - Next Permutation
+    next_permutation(v.begin(), v.end())
+
+    //Algorithm - swap, min, max
+    //Algorithm - Max & Min Element
+    max.element(v.begin(), v.end())
+    min.element(v.begin(), v.end())
+
+    //Algorithm - Binary Search
+    binary_search(v.begin(), v.end(), target)
+
+    //Algorithm - Count Set Bits
+    __builtin_popcount()
+    __builtin_popcountl()
+    __builtin_popcountll()
+
+
     return 0;
 }
