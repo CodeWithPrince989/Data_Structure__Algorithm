@@ -259,12 +259,42 @@ int main(){
     m.emplace({"Fan", 100});
     m.emplace({"Fan", 100});
     m.emplace({"Fan", 100});
-
+    
     m.erase(m.find("Fan"));
     
     for(auto p: m){
       cout<<p.first<<" "<<p.second<<endl;
     }
+    
+    // - Unordered Map - Most USed
+    unordered_map<string, int> m;
+    
+    m.emplace({"tv", 10});
+    m.emplace({"laptop", 10});
+    m.emplace({"fridge", 10});
+    m.emplace({"watch", 10});
 
+    for(auto p: m){
+      cout<<p.first<<" "<<p.second<<endl;
+    }
+
+//////////////////Set///--///Store Unique Value in Sorted Order
+    set<int> s;
+
+    // -insert, emplace
+    // -erase 
+    // -find 
+    // -size, empty, erase 
+
+    s.insert(1);
+    s.insert(2);
+    s.insert(3);
+
+    for(auto val: s){
+      cout<<val<<" ";
+    }
+    cout<<endl;
+
+    
     return 0;
 }
