@@ -222,7 +222,21 @@ int main(){
     // - find 
     // - size, empty, erase 
 
-    
+    m["tv"] = 100;
+    m["laptop"] = 100;
+    m["headphones"] = 50;
+    m["tablet"] = 120;
+    m["watch"] = 50;
 
+    m.insert({"camera", 25});           
+    m.emplace({"drone", 10});
+    m.erase({"tv"});
+    m.find({"tv"});
+    
+    for(auto p: ,){
+      cout << p.first << " " <<p.second << endl;
+    }
+
+    cout<< "count = " << m.count("laptop") << endl;
     return 0;
 }
