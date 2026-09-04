@@ -236,7 +236,35 @@ int main(){
     for(auto p: ,){
       cout << p.first << " " <<p.second << endl;
     }
-
+    
+    if(m.find("camera")!=m.end()){
+      cout<<"found\n";
+    }else{
+      cout<<"Not Found\n";
+    }
     cout<< "count = " << m.count("laptop") << endl;
+    
+    //Others Maps
+    // - Multi Map
+    multimap<string, int> m;
+    
+    // - Unordered Map
+    unordered_map<string, int> m;
+    
+    // creating Multi Map
+    multimap<string, int> m;
+    
+    m.emplace({"Fan", 100});
+    m.emplace({"Fan", 100});
+    m.emplace({"Fan", 100});
+    m.emplace({"Fan", 100});
+    m.emplace({"Fan", 100});
+
+    m.erase(m.find("Fan"));
+    
+    for(auto p: m){
+      cout<<p.first<<" "<<p.second<<endl;
+    }
+
     return 0;
 }
