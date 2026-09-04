@@ -1,0 +1,40 @@
+01. Finding middle element in a linked list
+02. Delete Middle of Linked List
+03. Insert in a Sorted List
+04. Reverse a linked list
+05. Rotate a Linked List
+06. Pairwise swap elements of a linked list
+07. Given a linked list of 0s, 1s and 2s, sort it
+08. Add 1 to a number represented as linked list
+09. Add two numbers represented by linked lists
+10. Subtraction in Linked List
+11. Rearrange a linked list
+12. Nth node from end of linked list
+13. Detect Loop in linked list
+14. Find length of Loop
+15. Remove loop in Linked List
+16. Merge two sorted linked lists
+17. Merge Sort for Linked List
+18. Merge K sorted linked lists
+19. XOR Linked List
+20. Intersection of two sorted Linked lists
+21. Intersection Point in Y Shapped Linked Lists
+22. Check if Linked List is Palindrome
+23. Union of Two Linked Lists
+24. Remove duplicates from an unsorted linked list
+25. Linked List in Zig-Zag fashion
+26. Count Pairs whose sum is equal to X
+27. Reverse a Linked List in groups of given size
+28. Clone a linked list with next and random pointer
+29. Delete without head pointer
+30. Polynomial Addition
+31. Delete nodes having greater value on right
+32. Flattening a Linked List
+33. Swap Kth nodes from ends
+34. Reverse alternate nodes in Link List
+35. Delete keys in a Linked list
+36. Delete node in Doubly Linked List
+37. Sorted insert for circular linked list
+38. Reorder List
+39. Intersection of Two Linked Lists
+40. Linked List that is Sorted Alternatingly

@@ -1,0 +1,7 @@
+01. Rotate by 90 degree
+02. Spirally traversing a matrix
+03. Boundary traversal of matrix
+04. Find nth element of spiral matrix
+05. Search in a row-column sorted Matrix
+06. Unique rows in boolean matrix
+07. Print matrix in diagonal pattern

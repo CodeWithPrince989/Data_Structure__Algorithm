@@ -1,0 +1,18 @@
+01. Insert a node in a BST
+02. Lowest Common Ancestor in a BST
+03. Print BST elements in given range
+04. Binary Tree to BST
+05. Kth largest element in BST
+06. Find Common Nodes in two BSTs
+07. Inorder Successor in BST
+08. Median of BST
+09. Check for BST
+10. Add all greater values to every node in a BST
+11. Delete a node from BST
+12. Largest BST
+13. Find the Closest Element in BST
+14. Merge two BST 's
+15. k-th smallest element in BST
+16. Find a pair with given target in BST
+17. Unique BST's
+18. Fixing Two nodes of a BST

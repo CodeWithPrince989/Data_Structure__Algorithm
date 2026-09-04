@@ -1,0 +1,10 @@
+01. Merge Sort
+02. Quick Sort
+03. Count the number of possible triangles
+04. Find triplets with zero sum
+05. Triplet Sum in Array
+06. Count Inversions
+07. Closet 0s 1s and 2s
+08. Top K Frequent Elements in Array
+09. Minimum Platforms
+10. K closest point to origin

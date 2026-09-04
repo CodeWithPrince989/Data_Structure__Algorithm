@@ -1,0 +1,21 @@
+01. Distinct occurrences
+02. Count number of hops
+03. 0 - 1 Knapsack Problem
+04. Coin Change - Minimum number of coins
+05. Maximize The Cut Segments
+06. Wildcard Pattern Matching
+07. Max length chain
+08. Box Stacking
+09. Count ways to reach the n'th stair
+10. Count ways to N'th Stair(Order does not matter)
+11. Egg Dropping Puzzle
+12. Optimal Strategy For A Game
+13. nCr
+14. Minimum number of jumps
+15. Longest Increasing Subsequence
+16. Longest Common Subsequence
+17. Subset Sum Problem
+18. Count subsequences of type a^i, b^j, c^k
+19. Maximum Subarray Sum
+20. Stock buy and sell
+21. Word Break

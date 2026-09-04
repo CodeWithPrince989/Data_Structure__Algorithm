@@ -1,0 +1,12 @@
+01. Square root of a number
+02. Majority Element
+03. Missing number in array
+04. Find Transition Point
+05. Peak element
+06. Index Of an Extra Element
+07. Counting elements in two arrays
+08. Floor in a Sorted Array
+09. Search an element in sorted and rotated array
+10. Count More than n_k Occurences
+11. Smallest Positive missing number
+12. Median of 2 Sorted Arrays of Different Sizes

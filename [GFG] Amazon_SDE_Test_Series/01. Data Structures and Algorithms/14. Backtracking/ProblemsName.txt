@@ -1,0 +1,8 @@
+01. Rat in a Maze Problem - I
+02. Unique Subsets
+03. Solve the Sudoku
+04. M-Coloring Problem
+05. Largest number in K swaps
+06. Generate Parentheses
+07. Possible Words From Phone Digits
+08. Partition array to K subsets

@@ -1,0 +1,14 @@
+01. Implement stack using array
+02. Implement Stack using Linked List
+03. Implement two stacks in an array
+04. Stack using two queues
+05. Special Stack
+06. Sort a stack
+07. Evaluation of Postfix Expression
+08. The Celebrity Problem
+09. Get minimum element from stack
+10. Max rectangle
+11. Parenthesis Checker
+12. Next Greater Element
+13. Stock span problem
+14. Maximum of minimum for every window size
