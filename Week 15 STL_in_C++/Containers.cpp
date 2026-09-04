@@ -212,6 +212,17 @@ int main(){
 
 
     ---------xx Map In C++ xx---------
+    //USe to store Key and Value
+    map<string, int> m;
+    m[key] = value;
+
+    // - insert, emplace
+    // - count 
+    // - erase 
+    // - find 
+    // - size, empty, erase 
+
+    
 
     return 0;
 }
