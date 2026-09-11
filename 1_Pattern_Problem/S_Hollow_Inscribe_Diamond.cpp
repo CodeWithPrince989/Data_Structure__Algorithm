@@ -16,7 +16,13 @@ int main(){
         for(int j=2; j<=i; j++){
             cout<<" ";
         }
-        
+        //Space
+        // for(int p=1; p<i; p++){
+        //     cout<<" ";
+        // }
+        for(int s=1; s<=n-i; s++){
+            cout<<"*";
+        }
         cout<<endl;
     }
 
@@ -30,6 +36,9 @@ int main(){
         }
         for(int j=i-1; j>=1; j--){
             cout<<" ";
+        }
+        for(int s=1; s<=n-i; s++){
+            cout<<"*";
         }
         cout<<endl;
     }
